@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> # -*- coding: utf-8 -*-
+> lyric_content = """
+> يا حبيبتي يا مصر، أنتِ نور العين
+> في ليالي الشوق، قلبي ينبض مرتين
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
