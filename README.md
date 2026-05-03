@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ya Habibti Ya Masr – Oh My Love, Oh Egypt |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 25, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-habibti-ya-masr-oh-my-love-oh-egypt/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
