@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-habibti-ya-masr-oh-my-love-oh-egypt/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Ya Habibti Ya Masr – Oh My Love, Oh Egypt](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
