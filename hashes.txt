@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya Habibti Ya Masr – Oh My Love, Oh Egypt
+
+This log tracks the cryptographic history and versioning for the song **Ya Habibti Ya Masr – Oh My Love, Oh Egypt** (ya-habibti-ya-masr-oh-my-love-oh-egypt).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:25:26.952382 | `v1` | `783cb9044f21b9636a92f69ebc88352274a807112459bd1b5be3476712a1fcae` | `b9ef88c1665ad6415228712c042286cc71f74fbebbce51e022336161b5556451` | `2026-05-09_ya-habibti-ya-masr-oh-my-love-oh-egypt-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
